@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8 Наурыз – Халықаралық әйелдер күні</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffe6f2;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff4d94;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            margin: 20px;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .message {
+            font-size: 20px;
+            margin: 20px 0;
+            color: #cc0066;
+        }
+        footer {
+            background-color: #ff4d94;
+            color: white;
+            padding: 10px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    8 НАУРЫЗ – ХАЛЫҚАРАЛЫҚ ӘЙЕЛДЕР КҮНІ
+    <h1 align = "center" > <em>8 наурыз құтты болсын</em> </h1>
+</header>
+
+<div class="container">
+    <img src="https://avatars.mds.yandex.net/i?id=bd71b2b495a902934af6ea4103c6efb4d8c39979-12939114-images-thumbs&n=13" alt="8 Наурыз құттықтау">
+    <p class="message">
+        Құрметті арулар қауымы, ардақты аналар, құрметті апалар, ұстаздар мен басқа да керемел әйелдер, сіздерді 8 наурыз әйелдер <br>
+     мерекесімен шын жүректен құттықтаймыз және сіздерге әлемдегі бар жақсылықты тілейміз! <br>
+     Зор денсаулық, мол байлық, бақыт пен береке тілейміз, армандарыңыз орындала берсін, жүзіңізден күлкі кетпесін! 
+    </p>
+    <button h="40px" w="100px"> <a href="https://youtu.be/OlWIOw0Gl2o?si=0srUh7fOQPvlpqXP"> 8 наурыз! </a></button>
+<br><br><br><br>
+<p>Мезгіл ауысып, көктем келді әнекей<br>
+    Берекелі наурыз айы мінекей<br>
+    Халықаралық әйелдердің мейрамында<br>
+    Ду қол шапалақ қайда халқым қанекей?<br>
+    <br>
+    Әйел деген нәзік жанды адам ғой<br>
+    8 наурыз тойламасақ күнә ғой<br>
+    Тойламасан одан әрмен демекші<br>
+    Әйел адам құттықтасаңда ырза ғой<br>
+    <br>
+    Бұл мейрамда ресторанда отсақ болар еді<br>
+    Қағаз ақша көңілден артық беді?<br>
+    Тойлатуға бізге деген бір кедергі<br>
+    Наурызбенен қосылып Ораза келді<br>
+    <br>
+    Сондада құттықтаймыз біз сіздерді<br>
+    Ауыз көпіріп айтамыз сіздерге тілектерді<br>
+    Бұның бәрі жәй сөз болғанымен <br>
+    Ең бастысы қуанып жүріңдерші</p>
+
+</div>
+
+<footer>
+</footer>
+
+</body>
+</html>
